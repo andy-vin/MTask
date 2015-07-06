@@ -6,9 +6,9 @@
  * Time: 13:30
  */
 
-$DB_HOST = "localhost";
-$DB_USER = "root";
-$DB_PASS = "";
-$DB_NAME = "z1x2c3";
+define ( 'DB_HOST', 'localhost' );
+define ( 'DB_USER', 'root' );
+define ( 'DB_PASS', '' );
+define ( 'DB_NAME',  'z1x2c3' );
 
 ?>
